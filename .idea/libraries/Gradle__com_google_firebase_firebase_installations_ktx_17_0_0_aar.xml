@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-installations-ktx:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/73191e47f15f4827e6a962015e47a0b2/transformed/jetified-firebase-installations-ktx-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca6db12becbe8c4c695efc1e6ef032e3/transformed/jetified-firebase-installations-ktx-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ca6db12becbe8c4c695efc1e6ef032e3/transformed/jetified-firebase-installations-ktx-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca6db12becbe8c4c695efc1e6ef032e3/transformed/jetified-firebase-installations-ktx-17.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-installations-ktx/17.0.0/c420d0efeea81f7f4e334d6cee8a79bc6e6924c8/firebase-installations-ktx-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-installations-ktx/17.0.0/4af43ac786b416842c90d2635fcc69ab6c2da421/firebase-installations-ktx-17.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
